@@ -1,0 +1,4 @@
+additionalRepositories:
+  - url: https://github.com/iann0036/aws-sdk-serviceworker
+    # checkoutLocation is relative to /workspaces
+    checkoutLocation: backend
